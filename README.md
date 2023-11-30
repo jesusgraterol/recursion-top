@@ -1,6 +1,6 @@
 # Recursion
 
-This repository the submission for [The Odin Project: Recursion](https://www.theodinproject.com/lessons/javascript-recursion).
+This repository is the submission for [The Odin Project: Recursion](https://www.theodinproject.com/lessons/javascript-recursion).
 
 
 
