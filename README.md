@@ -109,5 +109,4 @@ N/A
 
 ## Acknowledgments
 
-- [Google Fonts](https://fonts.google.com/icons)
 - [ESLint](https://eslint.org/)
